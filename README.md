@@ -19,15 +19,7 @@ Je souhaite faire une ACP sur les données du jeu `iris` inclu dans `R`.
 
 ``` r
 library(vegan)
-```
 
-    ## Loading required package: permute
-
-    ## Loading required package: lattice
-
-    ## This is vegan 2.5-3
-
-``` r
 source("cleanplot.pca.color.R")
 
 data <- iris

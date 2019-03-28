@@ -14,7 +14,7 @@ Pour l'utiliser, il suffit de copier le texte en cliquant sur le lien [`cleanplo
 
 Je souhaite faire une ACP sur les données du jeu `iris` inclu dans `R`.
 
-```{r messages = FALSE}
+```{r message = FALSE}
 library(vegan)
 
 source("cleanplot.pca.color.R")
