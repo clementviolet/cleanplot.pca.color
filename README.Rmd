@@ -8,7 +8,7 @@ output:
 # A propos
 Ce repo contient une version modifiée de la fonction `cleanplot.pca()` dont la version originelle se trouve également dans ce dossier. Cette nouvelle version, nommée `cleanpot.pca.color()` permet de différencier les points par couleurs en fonction d'une variable catégorielle (i.e : un `factor`).
 
-Pour l'utiliser, il suffit de copier le texte en cliquant sur le lien [`cleanplot.pca.color.R`](cleanplot.pca.color.R) et dans l'enregistrer dans un fichier dans le répertoire courant dans lequel travaille `R` (utilisez la fonction `getwd()` pour le trouver). Puis vous charger la fonction en utilisant `source("nom_du_fichier_contenant_la_fonction.R")` et vous n'avez plus qu'à appeler `cleanplot.pca.color()`.
+Pour l'utiliser, il suffit de copier le texte en cliquant sur le lien [`cleanplot.pca.color.R`](cleanplot.pca.color.R) et dans l'enregistrer dans un script `R` dans le répertoire courant dans lequel travaille `R` (utilisez la fonction `getwd()` pour le trouver). Puis vous charger la fonction en utilisant `source("nom_du_fichier_contenant_la_fonction.R")` et vous n'avez plus qu'à appeler `cleanplot.pca.color()`.
 
 # Exemple
 

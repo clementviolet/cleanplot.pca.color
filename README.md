@@ -8,7 +8,7 @@ un `factor`).
 
 Pour l’utiliser, il suffit de copier le texte en cliquant sur le lien
 [`cleanplot.pca.color.R`](cleanplot.pca.color.R) et dans l’enregistrer
-dans un fichier dans le répertoire courant dans lequel travaille `R`
+dans un script `R` dans le répertoire courant dans lequel travaille `R`
 (utilisez la fonction `getwd()` pour le trouver). Puis vous charger la
 fonction en utilisant `source("nom_du_fichier_contenant_la_fonction.R")`
 et vous n’avez plus qu’à appeler `cleanplot.pca.color()`.
